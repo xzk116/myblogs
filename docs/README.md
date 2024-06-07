@@ -1,30 +1,10 @@
-## docsify
+## 说明
 
-> A magical documentation site generator.
+> 一个神奇的文档网站生成器。
 
-## What it is
 
-Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an `index.html` and [deploy it on GitHub Pages](deploy.md).
 
-See the [Quick start](quickstart.md) guide for more details.
+Docsify 动态生成您的文档网站。与 GitBook 不同，它不会生成静态 html 文件。相反，它会智能地加载和解析您的 Markdown 文件，并将它们显示为网站。要开始使用它，您需要做的就是创建一个并将其[部署在 GitHub Pages 上](https://kkgithub.com/xzk116/myblogs/blob/master/docs/deploy.md)。`index.html`
 
-## Features
+有关详细信息，请参阅[快速入门](https://kkgithub.com/xzk116/myblogs/blob/master/docs/quickstart.md)指南。
 
-- No statically built html files
-- Simple and lightweight
-- Smart full-text search plugin
-- Multiple themes
-- Useful plugin API
-- Emoji support
-
-## Examples
-
-Check out the [Showcase](https://github.com/docsifyjs/awesome-docsify#showcase) to see docsify in use.
-
-## Donate
-
-Please consider donating if you think docsify is helpful to you or that my work is valuable. I am happy if you can help me [buy a cup of coffee](https://github.com/QingWei-Li/donate). :heart:
-
-## Community
-
-Users and the development team are usually in the [Discord server](https://discord.gg/3NwKFyR).
