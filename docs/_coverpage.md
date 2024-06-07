@@ -6,5 +6,5 @@
 - 爱我所爱
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[开始学习](#docsify)
+[开始学习](#说明)
 
